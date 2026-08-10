@@ -1,5 +1,26 @@
 [
 	{
+      "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+      "fileSize": 26036,
+      "status": 1,
+      "language": "id",
+      "authors": [
+        "Hexated",
+        "TeKuma25"
+      ],
+      "tvTypes": [
+          "AnimeMovie",
+          "OVA",
+          "Anime"
+      ],
+      "version": 13,
+      "internalName": "Animasu",
+      "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Animasu.cs3",
+      "name": "Animasu"
+    },
+	{
       "iconUrl": "https://www.google.com/s2/favicons?domain=154.26.137.28&sz=%size%",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
