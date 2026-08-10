@@ -20,10 +20,10 @@
 
 1. Buka aplikasi CloudStream.  
    Jika belum punya, download [DISINI](https://github.com/recloudstream/cloudstream/releases)  
-2. Masuk ke menu **"Pengaturan"** > **"Ekstensi"** 3. Klik tombol **"Tambahkan Repositori"** 4. Masukkan URL repositori SCloud :
-   - https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/repo.json
-   - Shortcode : cloudx5758
-   - Atau cukup klik [DISINI](https://shorturl.at/pxQ8q)  
+2. Masuk ke menu **"Pengaturan"** > **"Ekstensi"** 
+3. Klik tombol **"Tambahkan Repositori"** 
+4. Masukkan URL repositori SCloud :
+   - https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/repo.json   
 5. Klik **"Tambahkan"** 6. Ekstensi yang tersedia akan muncul di daftar  
 7. Pilih ekstensi yang ingin diinstal dan klik **"Instal"** ✅
 
