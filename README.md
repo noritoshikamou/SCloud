@@ -10,8 +10,7 @@
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
-| <img src="https://i.ibb.co.com/DfTs2NjT/appicon.png" width="16"> Idlix | Indonesia | ✔️ Active |
-| <img src="https://i.ibb.co.com/YFbP1FSr/icon.png" width="16"> Moviebox | Indonesia | ✔️ Active |
+| <img src="https://i.ibb.co.com/N6CQYGyP/1616403154-20210322-143811.png" width="16"> Otakudesu | Indonesia | ✔️ Active |
 
 
 ---
