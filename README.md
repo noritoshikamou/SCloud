@@ -30,7 +30,7 @@
 ---
 
 
-## 📺 Anime Extensions
+## 🎞️ Anime Extensions
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
