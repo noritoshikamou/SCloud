@@ -10,6 +10,7 @@
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
+| <img src="https://www.google.com/s2/favicons?domain=www.dubbindo.site&sz=256" width="16"> DubbIndo | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/QF8w02RR/klikxxi.png" width="16"> KlikXXi | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/DfTs2NjT/appicon.png" width="16"> Idlix | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/YFbP1FSr/icon.png" width="16"> Moviebox | Indonesia | ✔️ Active |
