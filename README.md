@@ -16,6 +16,7 @@
 | <img src="https://i.ibb.co.com/YF23H4Qw/Kurama.png" width="16"> Kuramanime | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/S7s94zkC/NG.png" width="16"> Nimegami | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/N6CQYGyP/1616403154-20210322-143811.png" width="16"> Otakudesu | Indonesia | ✔️ Active |
+| <img src="https://i.ibb.co.com/HTGV9cpm/Samehadaku.png" width="16"> Samehadaku | Indonesia | ✔️ Active |
 
 
 ---
