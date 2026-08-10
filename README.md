@@ -1,3 +1,4 @@
+<div align="center">
 # SCloud ☁️
 
 [![Platform: CloudStream](https://img.shields.io/badge/Platform-CloudStream-6200EE?style=flat-square&logo=android)](https://cloudstream.cf)
