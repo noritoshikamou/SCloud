@@ -164,7 +164,27 @@
     "internalName": "Kuramanime",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
     "name": "Kuramanime"
-  },	
+  },
+  {
+    "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+    "fileSize": 21909,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Ngefilm",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Ngefilm.cs3",
+    "name": "Ngefilm"
+  },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
     "apiVersion": 1,
