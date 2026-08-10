@@ -12,7 +12,7 @@
 | ------------- | ------- | ------- |
 | <img src="https://i.ibb.co.com/RTthN2vp/Animasu.png" width="16"> Animasu | Indonesia | ✔️ Active | 
 | <img src="https://i.ibb.co.com/XMZmfZr/Animesail.png" width="16"> Animesail | Indonesia | ❌ Down |
-| <img src="https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%"> | Indonesia | ✔️ Active |
+| <img src="https://i.ibb.co.com/wF7zYysd/Nimegami.png"> | Indonesia | ✔️ Active |
 | <img src="https://i.ibb.co.com/N6CQYGyP/1616403154-20210322-143811.png" width="16"> Otakudesu | Indonesia | ✔️ Active |
 
 
