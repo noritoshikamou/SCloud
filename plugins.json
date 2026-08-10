@@ -110,6 +110,28 @@
     "name": "Idlix"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=d21.team&sz=%size%",
+    "fileHash": "sha256-3d61ddd70485f4811673199cbb553673ad05ef35ec8ab23c09f73ba1f12f3d2e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+    "fileSize": 163072,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Imam2nd"
+    ],
+    "tvTypes": [
+        "AsianDrama",
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 314394,
+    "internalName": "ProviderLayarKaca21",
+    "description": "🎥 Streaming Movies & TV Series",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/LayarKaca21.cs3",
+    "name": "LayarKaca21"
+ },
+  {
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
