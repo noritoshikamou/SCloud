@@ -1,6 +1,6 @@
 <div align="center">
    
-### SCloud ☁️
+# SCloud ☁️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: CloudStream](https://img.shields.io/badge/Platform-CloudStream-6200EE?style=flat-square&logo=android)](https://cloudstream.cf)
