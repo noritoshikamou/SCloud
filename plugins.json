@@ -2,7 +2,7 @@
   {
     "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/noritoshikamou/ECloude",
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
     "fileSize": 51520,
     "status": 1,
     "language": "id",
@@ -18,13 +18,13 @@
     "version": 1,
     "internalName": "Idlix",
     "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/noritoshikamou/ECloude/builds/Idlix.cs3",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Idlix.cs3",
     "name": "Idlix"
   },
   {
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/noritoshikamou/ECloude",
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
     "fileSize": 75157,
     "status": 1,
     "language": "id",
@@ -38,7 +38,7 @@
     "version": 1,
     "internalName": "Moviebox",
     "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/noritoshikamou/ECloude/builds/Moviebox.cs3",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Moviebox.cs3",
     "name": "Moviebox"
   }
 ]
