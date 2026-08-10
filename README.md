@@ -56,7 +56,7 @@ For those who want to build it themselves:
 ```sh
 gradle example:make
 ```
-5. Good luck / Enjoy trying.
+5. Good luck.
 
 ## 👌 Thanks To
 
