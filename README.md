@@ -22,7 +22,7 @@
 
 ## ⚙️ How to Use
 
-1. Open the CloudStream app. If you don't have it yet, download [HERE](https://github.com/recloudstream/cloudstream/releases)  
+1. Open the CloudStream app. If you don't have it yet, download [here](https://github.com/recloudstream/cloudstream/releases)  
 2. Go to **"Settings"** > **"Extensions"** 
 3. Click the **"Add Repository"** button
 4. Enter the SCloud repository URL: :
