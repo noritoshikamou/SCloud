@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**SCloud** adalah kumpulan repositori dari CloudStream 
+**SCloud** is a collection of CloudStream repositories
 
 ---
 
-## 📺 Ekstensi Anime
+## 📺 Anime Extensions
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
@@ -20,30 +20,32 @@
 
 ---
 
-## ⚙️ Cara Menggunakan
+## ⚙️ How to Use
 
-1. Buka aplikasi CloudStream. Jika belum punya, download [DISINI](https://github.com/recloudstream/cloudstream/releases)  
-2. Masuk ke menu **"Pengaturan"** > **"Ekstensi"** 
-3. Klik tombol **"Tambahkan Repositori"** 
-4. Masukkan URL repositori SCloud :
+1. Open the CloudStream app. If you don't have it yet, download [HERE](https://github.com/recloudstream/cloudstream/releases)  
+2. Go to **"Settings"** > **"Extensions"** 
+3. Click the **"Add Repository"** button
+4. Enter the SCloud repository URL: :
    - https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/repo.json   
-5. Klik **"Tambahkan"** 6. Ekstensi yang tersedia akan muncul di daftar  
-7. Pilih ekstensi yang ingin diinstal dan klik **"Instal"** ✅
+5. Click **"Add"** 
+6. The available extensions will appear in the list 
+7. Select the extension you want to install and click **"Install"** ✔️
 
 ---
 
-## 🛠️ Cara Build
+## 🛠️ How to Build
 
-Untuk yang ingin build sendiri:
+For those who want to build it themselves:
 
-1. Install **Java 21** atau lebih baru  
-2. Install **Gradle** (saran versi 8.12)  
-3. Install **SDK Manager** (saran versi terbaru)  
-4. Build Gradle lewat cmd dengan perintah:  
+1. Install Java 21 or newer
+2. Install Gradle (recommended version 8.12)
+3. Install SDK Manager (recommended latest version)
+4. Build Gradle via cmd with the command:
+
 ```sh
 gradle example:make
 ```
-5. Selamat mencoba.
+5. Good luck / Enjoy trying.
 
 ## Thanks To
 
