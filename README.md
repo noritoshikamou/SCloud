@@ -18,8 +18,7 @@
 
 ## ⚙️ Cara Menggunakan
 
-1. Buka aplikasi CloudStream.  
-   Jika belum punya, download [DISINI](https://github.com/recloudstream/cloudstream/releases)  
+1. Buka aplikasi CloudStream. Jika belum punya, download [DISINI](https://github.com/recloudstream/cloudstream/releases)  
 2. Masuk ke menu **"Pengaturan"** > **"Ekstensi"** 
 3. Klik tombol **"Tambahkan Repositori"** 
 4. Masukkan URL repositori SCloud :
