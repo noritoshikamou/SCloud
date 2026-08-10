@@ -1,4 +1,25 @@
 [
+	{
+      "iconUrl": "https://www.google.com/s2/favicons?domain=154.26.137.28&sz=%size%",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+      "fileSize": 17700,
+      "status": 1,
+      "language": "id",
+      "authors": [
+        "Hexated",
+        "TeKuma25"
+        ],
+       "tvTypes": [
+       "AnimeMovie",
+       "Anime",
+       "OVA"
+       ],
+       "version": 15,
+       "internalName": "AnimeSail",
+       "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/AnimeSail.cs3",
+       "name": "AnimeSail"
+  },
   {
     "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
     "apiVersion": 1,
@@ -57,7 +78,7 @@
     ],
     "version": 16,
     "internalName": "Otakudesu",
-    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Otakudesu.cs3",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Otakudesu.cs3",
     "name": "Otakudesu"
   }
 ]
