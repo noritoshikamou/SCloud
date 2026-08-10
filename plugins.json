@@ -83,6 +83,26 @@
     "name": "Moviebox"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "fileSize": 23091,
+    "status": 1,
+    "language": "id",
+    "authors": [
+    "TeKuma25"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 13,
+    "internalName": "Nimegami",
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Nimegami.cs3",
+    "name": "Nimegami"
+  },
+  {
     "iconUrl": "https://i.ibb.co.com/N6CQYGyP/1616403154-20210322-143811.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
