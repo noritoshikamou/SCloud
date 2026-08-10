@@ -39,5 +39,25 @@
     "description": "📺 Streaming Movie and TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Moviebox.cs3",
     "name": "Moviebox"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "fileSize": 22966,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "TeKuma25"
+    ],
+    "tvTypes": [
+    "AnimeMovie",
+    "Anime",
+    "OVA"
+    ],
+    "version": 16,
+    "internalName": "Otakudesu",
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Otakudesu.cs3",
+    "name": "Otakudesu"
   }
 ]
