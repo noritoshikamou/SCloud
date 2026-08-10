@@ -1,7 +1,7 @@
 {
-  "name": "SCloud",
-  "description": "🇮🇩 Indonesian Movie Repository for CloudStream",
-  "iconUrl": "https://i.ibb.co.com/gZrP80tD/6120913805597413645-121.jpg",
+  "name": "Streaming Cloud",
+  "description": "Indonesian Movie Repository for CloudStream",
+  "iconUrl": "https://i.ibb.co.com/NdCgt0TH/pngtree-fluffy-cloud-png-image-16163165.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/plugins.json"
