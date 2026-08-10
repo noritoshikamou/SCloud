@@ -58,7 +58,7 @@ gradle example:make
 ```
 5. Good luck / Enjoy trying.
 
-## Thanks To
+## 👌 Thanks To
 
 * [Hexated](https://github.com/hexated)
 * [TeKuma25](https://github.com/TeKuma25)
