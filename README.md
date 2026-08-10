@@ -9,6 +9,8 @@
 
 **SCloud** is a collection of CloudStream repositories
 
+</div>
+
 ---
 
 ## 📽️ Movie Extensions
