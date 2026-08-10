@@ -83,6 +83,26 @@
     "name": "Moviebox"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+    "fileSize": 21666,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "TeKuma25"
+    ],
+    "tvTypes": [
+        "AnimeMovie",
+        "Anime",
+        "OVA"
+    ],
+    "version": 39,
+    "internalName": "Kuramanime",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
+    "name": "Kuramanime"
+  },	
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
