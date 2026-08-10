@@ -253,5 +253,29 @@
 	"description": "🎞️ Animations",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Otakudesu.cs3",
     "name": "Otakudesu"
-  }
+  },
+  {
+    "iconUrl": "https://i.ibb.co.com/HTGV9cpm/Samehadaku.png",
+    "fileHash": "sha256-568f82fa6ae9255c71a8b6597febc13d0b0a1aaa1ded8eadc46542f4ef079ec2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud/",
+    "fileSize": 163058,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Duro92",
+        "CodeSanzz",
+        "Imam2nd"
+    ],
+    "tvTypes": [
+        "Anime",
+        "AnimeMovie",
+        "OVA"
+    ],
+    "version": 314394,
+    "internalName": "Samehadaku",
+    "description": "🎞️ Animations",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Samehadaku.cs3",
+    "name": "Samehadaku"
+    }	
 ]
