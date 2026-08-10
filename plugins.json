@@ -1,5 +1,26 @@
 [
 	{
+      "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+      "fileHash": "sha256-a4f9dd580d475e62dad9227dec7def8a0ab98d19e16517fe84431c2e9b4bcfea",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+      "fileSize": 53651,
+      "status": 1,
+      "language": "en",
+      "authors": [
+         "NivinCNC"
+      ],
+      "tvTypes": [
+          "Anime",
+          "AnimeMovie",
+          "OVA"
+      ],
+      "version": 7,
+      "internalName": "AniKoto",
+      "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/AniKoto.cs3",
+      "name": "AniKoto"
+    },
+	{
       "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
