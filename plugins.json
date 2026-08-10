@@ -17,6 +17,7 @@
       ],
       "version": 7,
       "internalName": "AniKoto",
+	  "description": "🎞️ Animations",	
       "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/AniKoto.cs3",
       "name": "AniKoto"
     },
@@ -38,6 +39,7 @@
       ],
       "version": 13,
       "internalName": "Animasu",
+	  "description": "🎞️ Animations",
       "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Animasu.cs3",
       "name": "Animasu"
     },
@@ -59,6 +61,7 @@
        ],
        "version": 15,
        "internalName": "AnimeSail",
+	   "description": "🎞️ Animations",
        "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/AnimeSail.cs3",
        "name": "AnimeSail"
   },
@@ -81,6 +84,7 @@
        ],
        "version": 2,
        "internalName": "Dubbindo",
+	   "description": "📺 Streaming Movie and TV Series",
        "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Dubbindo.cs3",
        "name": "Dubbindo"
   },
@@ -162,6 +166,7 @@
     ],
     "version": 39,
     "internalName": "Kuramanime",
+	"description": "🎞️ Animations",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
     "name": "Kuramanime"
   },
@@ -202,6 +207,7 @@
     ],
     "version": 13,
     "internalName": "Nimegami",
+	"description": "🎞️ Animations",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Nimegami.cs3",
     "name": "Nimegami"
   },
@@ -222,6 +228,7 @@
     ],
     "version": 16,
     "internalName": "Otakudesu",
+	"description": "🎞️ Animations",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Otakudesu.cs3",
     "name": "Otakudesu"
   }
