@@ -21,6 +21,7 @@
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
+| <img src="https://i.ibb.co.com/cKhz40Py/Anikoto.png" width="16"> Anikoto | <div align="center">English</div> | ✔️ Active |
 | <img src="https://i.ibb.co.com/RTthN2vp/Animasu.png" width="16"> Animasu | Indonesia | ✔️ Active | 
 | <img src="https://i.ibb.co.com/XMZmfZr/Animesail.png" width="16"> Animesail | Indonesia | ❌ Down |
 | <img src="https://i.ibb.co.com/YF23H4Qw/Kurama.png" width="16"> Kuramanime | Indonesia | ✔️ Active |
