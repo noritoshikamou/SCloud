@@ -6,7 +6,7 @@
 
 ---
 
-## 🎬 Ekstensi Movie
+## 🎬 Ekstensi Anime
 
 | Nama Ekstensi | Region | Status |
 | ------------- | ------- | ------- |
