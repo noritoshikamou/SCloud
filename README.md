@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**SCloud** adalah kumpulan repositori dari CloudStream untuk menonton film dengan subtitle Indonesia 🇮🇩  
+**SCloud** adalah kumpulan repositori dari CloudStream 
 
 ---
 
