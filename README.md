@@ -62,5 +62,4 @@ gradle example:make
 
 * [Hexated](https://github.com/hexated)
 * [TeKuma25](https://github.com/TeKuma25)
-* [Sofie99](https://github.com/Sofie99)
-* [Duro92](https://github.com/duro92)
+
