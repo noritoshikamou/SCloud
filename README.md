@@ -59,7 +59,7 @@
 
 ---
 
-## 👌 Thanks To
+## 🤝 Thanks To
 
 * [Hexated](https://github.com/hexated)
 * [Imam2nd](https://github.com/byimam2nd)
