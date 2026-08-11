@@ -172,26 +172,26 @@
   },
   {
     "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
-    "fileHash": "sha256-3d61ddd70485f4811673199cbb553673ad05ef35ec8ab23c09f73ba1f12f3d2e",
+    "fileHash": "sha256-11382845773a63a6efb12ba89884b16ff365e6724739c2388183b2bddcd91542",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
-    "fileSize": 163072,
+    "repositoryUrl": "https://github.com/byimam2nd/oce",
+    "fileSize": 167655,
     "status": 1,
     "language": "id",
     "authors": [
-        "NivinCNC"
+        "Imam2nd"
     ],
     "tvTypes": [
         "AsianDrama",
         "TvSeries",
         "Movie"
     ],
-    "version": 314394,
+    "version": 6705,
     "internalName": "LayarKaca21",
-    "description": "🎥 Movies & TV Series",
-    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/LayarKaca21.cs3",
+    "description": ""🎥 Movies & TV Series"",
+    "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderLayarKaca21.cs3",
     "name": "LayarKaca21"
- },
+  },
   {
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
