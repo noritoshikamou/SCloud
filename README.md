@@ -9,6 +9,8 @@
 
 </div>
 
+---
+
 **Shortcode:** `SCloud`
 
 **SCloud** is a collection of CloudStream repositories
