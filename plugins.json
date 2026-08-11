@@ -170,29 +170,29 @@
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
     "name": "Kuramanime"
   },
-  {
-    "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
-    "fileHash": "sha256-475603bcc47b4aa0978fb3c390476feec25b5726eebe9c8b939e5e1ba71fad3f",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
-    "fileSize": 13548,
-    "status": 1,
-    "language": "id",
-    "authors": [
-        "Dzikri"
-    ],
-    "tvTypes": [
-        "AsianDrama",
-        "TvSeries",
-        "Movie",
-        "Anime"
-    ],
-    "version": 1,
-    "internalName": "LayarKaca21",
-    "description": "🎥 Movies & TV Series",
-    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/LayarKaca21.cs3",
-    "name": "LayarKaca21"
-  },
+      {
+        "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
+        "fileHash": "sha256-b68c6b91b1deae902b0bb8cebadfdb883bece88f05d968be2727bdb4316b253f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/noritoshikamou/Inferno",
+        "fileSize": 13699,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Dzikri"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "LayarKaca21",
+        "description": "\ud83c\udfac LayarKaca21",
+        "url": "https://raw.githubusercontent.com/noritoshikamou/Inferno/builds/LayarKaca21.cs3",
+        "name": "LayarKaca21"
+    },
   {
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
