@@ -104,7 +104,7 @@
        ],
        "version": 2,
        "internalName": "Dubbindo",
-	   "description": "🎥 Streaming Movies & TV Series",
+	   "description": "🎥 Movies & TV Series",
        "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Dubbindo.cs3",
        "name": "Dubbindo"
   },
@@ -125,7 +125,7 @@
     ],
     "version": 1,
     "internalName": "Idlix",
-    "description": "🎥 Streaming Movies & TV Series",
+    "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Idlix.cs3",
     "name": "Idlix"
   },
@@ -145,7 +145,7 @@
     ],
     "version": 1,
     "internalName": "KlikXXi",
-    "description": "🎥 Streaming Movies & TV Series",
+    "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/KlikXXi.cs3",
     "name": "KlikXXi"
   },
@@ -188,7 +188,7 @@
     ],
     "version": 314394,
     "internalName": "ProviderLayarKaca21",
-    "description": "🎥 Streaming Movies & TV Series",
+    "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/LayarKaca21.cs3",
     "name": "LayarKaca21"
  },
@@ -208,7 +208,7 @@
     ],
     "version": 1,
     "internalName": "Moviebox",
-    "description": "🎥 Streaming Movies & TV Series",
+    "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Moviebox.cs3",
     "name": "Moviebox"
   },	
@@ -228,7 +228,7 @@
     ],
     "version": 1,
     "internalName": "Ngefilm",
-    "description": "🎥 Streaming Movies & TV Series",
+    "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Ngefilm.cs3",
     "name": "Ngefilm"
   },
