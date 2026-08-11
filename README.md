@@ -59,20 +59,6 @@
 
 ---
 
-## 🛠️ How to Build
-
-For those who want to build it themselves:
-
-1. Install Java 21 or newer
-2. Install Gradle (recommended version 8.12)
-3. Install SDK Manager (recommended latest version)
-4. Build Gradle via cmd with the command:
-
-```sh
-gradle example:make
-```
-5. Good luck.
-
 ## 👌 Thanks To
 
 * [Hexated](https://github.com/hexated)
