@@ -1,4 +1,24 @@
 [
+	    {
+        "iconUrl": "https://i.ibb.co.com/vCTQt6Qn/Anichin.png",
+        "fileHash": "sha256-02a3221e087d443655d6e3992235e495c235700942039db2cb9e3642d0f551e4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+        "fileSize": 164577,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 477786,
+        "internalName": "ProviderAnichin",
+        "description": "🎞️ Animations",
+        "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Anichin.cs3",
+        "name": "ProviderAnichin"
+    },
 	{
       "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
       "fileHash": "sha256-a4f9dd580d475e62dad9227dec7def8a0ab98d19e16517fe84431c2e9b4bcfea",
