@@ -170,12 +170,12 @@
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
     "name": "Kuramanime"
   },
-  {
+ {
         "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
-        "fileHash": "sha256-8298586ad295d057b802664abe608d9c73add71669bad9e40ab0f09f1cb46ea6",
+        "fileHash": "sha256-801ceafe07b131e060f8ea456bc7a6389377a318291a35d4cc7048b9c2888d70",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/noritoshikamou/Inferno",
-        "fileSize": 21171,
+        "fileSize": 21012,
         "status": 1,
         "language": "id",
         "authors": [
@@ -192,7 +192,7 @@
         "description": "\ud83c\udfac LayarKaca21",
         "url": "https://raw.githubusercontent.com/noritoshikamou/Inferno/builds/LayarKaca21.cs3",
         "name": "LayarKaca21"
-  },
+    },
   {
     "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
     "apiVersion": 1,
