@@ -130,24 +130,25 @@
     "name": "Idlix"
   },
   {
-    "iconUrl": "https://i.ibb.co.com/QF8w02RR/klikxxi.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
-    "fileSize": 20005,
-    "status": 1,
-    "language": "id",
-    "authors": [
-      "Asm0d3usX"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "KlikXXi",
-    "description": "🎥 Movies & TV Series",
-    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/KlikXXi.cs3",
-    "name": "KlikXXi"
+        "fileHash": "sha256-d8315d9d6ce1570960684f8511c22098c655131ee45d3877187f0225dc7d0cea",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/noritoshikamou/Inferno",
+        "fileSize": 23032,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "\ud83c\udfa5 Movies & TV Series"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "KlikXXi",
+        "description": "KlikXXi - Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/noritoshikamou/Inferno/builds/KlikXXi.cs3",
+        "name": "KlikXXi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
