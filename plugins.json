@@ -179,7 +179,7 @@
     "status": 1,
     "language": "id",
     "authors": [
-        "Imam2nd"
+        "NivinCNC"
     ],
     "tvTypes": [
         "AsianDrama",
@@ -187,7 +187,7 @@
         "Movie"
     ],
     "version": 314394,
-    "internalName": "ProviderLayarKaca21",
+    "internalName": "LayarKaca21",
     "description": "🎥 Movies & TV Series",
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/LayarKaca21.cs3",
     "name": "LayarKaca21"
