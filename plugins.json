@@ -170,12 +170,12 @@
     "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Kuramanime.cs3",
     "name": "Kuramanime"
   },
-      {
+     {
         "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
-        "fileHash": "sha256-b68c6b91b1deae902b0bb8cebadfdb883bece88f05d968be2727bdb4316b253f",
+        "fileHash": "sha256-11516f2a01483a05c126a0c7cdd5c56939131225a2043bc225ad8e122d647246",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/noritoshikamou/Inferno",
-        "fileSize": 13699,
+        "fileSize": 14304,
         "status": 1,
         "language": "id",
         "authors": [
